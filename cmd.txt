@@ -1,0 +1,2 @@
+tdl chat export -c 2063623758 chanall id
+tdl dl -f tdl-export.json -i mp3
